@@ -7,7 +7,7 @@ public class Equipamento {
     private String nome;
     private String descricao;
     private double valorDiario;
-    private boolean stautus;    
+    private boolean disponivel;    
 }
     public Equipamento(String nome, String descricao, double valorDiario) {
         this.id = UUID.randomUUID().toString(); // Gerar um ID único
