@@ -1,5 +1,3 @@
-package com.mycompany.trabalhopoo2;
-
 import java.util.UUID; //biblioteca de id
 
 public class Equipamento {
